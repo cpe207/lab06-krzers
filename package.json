@@ -1,0 +1,25 @@
+{
+  "name": "lab_06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.10",
+    "babel-jest": "*",
+    "ts-jest": "^29.1.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
