@@ -1,7 +1,7 @@
 {
   "name": "lab_06",
   "version": "1.0.0",
-  "description": "",
+  "description": "รหัส นศ.:",
   "main": "index.js",
   "devDependencies": {
     "@babel/core": "*",
@@ -21,5 +21,8 @@
     "axios": "^1.7.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.3"
+  },
+  "directories": {
+    "test": "test"
   }
 }
